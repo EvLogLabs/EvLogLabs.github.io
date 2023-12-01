@@ -32,7 +32,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "\U0001F680 EvLog"
-    Content: A stealth startup disrupting the EV charging network, coming soon...
+    Content: A stealth startup, powering the future of EV charging.
 
   socialIcons:
     # - name: twitter
